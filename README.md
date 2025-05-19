@@ -29,6 +29,15 @@
 
 ---
 
+### 💥 MaxBoomCalculator
+> Uses computer vision to identify components of a base in a game called Rust through Mask R-CNN
+- Calculates the amount of explosives you need in game to completely destroy the base
+- Tools: `Pytorch`, `PIL`, `Roboflow`
+
+[🔗 GitHub Repo](https://github.com/YLSphere/MaxBoomCalculator)
+
+---
+
 ### 🏡 ETHStates
 > Capstone Project where we created a mock NFT market that transacts in real estates
 - Complete mock back to front deployment on the ERC-20 network
