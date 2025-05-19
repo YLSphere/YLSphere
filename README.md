@@ -32,7 +32,7 @@
 ### 💥 MaxBoomCalculator
 > Uses computer vision to identify components of a base in a game called Rust through Mask R-CNN
 - Calculates the amount of explosives you need in game to completely destroy the base
-- Tools: `Pytorch`, `PIL`, `Roboflow`
+- Tools: `Pytorch`, `pillow`, `Roboflow`
 
 [🔗 GitHub Repo](https://github.com/YLSphere/MaxBoomCalculator)
 
