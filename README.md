@@ -40,7 +40,7 @@
 
 ### 🏡 ETHStates
 > Capstone Project where we created a mock NFT market that transacts in real estates
-- Complete mock back to front deployment on the ERC-20 network
+- Complete mock back to front deployment on the ERC-721 network
 - Tools: `Solidity`, `Hardhat`, `HTML`, `CSS`, `Typescript`, `React`
 
 [🔗 Code GitHub Repo](https://github.com/YLSphere/DSC180_ethstates)<br>
